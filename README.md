@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm working as a Blockchain Developer.
+I'm working as a Full Stack Blockchain Engineer.
 
 To know more checkout my portfolio: https://animeshkotka.github.io/Animesh-Kotka-Portfolio
-
+Visit my own site: https://kotka.tech
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/himel_ani/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/animesh-kotka-569231168/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/animesh_kotka) 
